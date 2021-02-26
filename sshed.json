@@ -1,0 +1,20 @@
+{
+    "version": "1.2.0-alpha-3",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/trntv/sshed/releases/download/1.2.0-alpha-3/sshed_1.2.0-alpha-3_windows_386.zip",
+            "bin": [
+                "sshed.exe"
+            ],
+            "hash": "b6a83a2ebe8389379de9b94f707536935491efb900b925f4d74c8875a8edeec6"
+        },
+        "64bit": {
+            "url": "https://github.com/trntv/sshed/releases/download/1.2.0-alpha-3/sshed_1.2.0-alpha-3_windows_amd64.zip",
+            "bin": [
+                "sshed.exe"
+            ],
+            "hash": "9470d457960af8df7d3f259e21ce9731363612d6096b915c69562bd48cdba9cc"
+        }
+    },
+    "homepage": "https://github.com/trntv/sshed"
+}
